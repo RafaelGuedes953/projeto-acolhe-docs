@@ -9,6 +9,6 @@ Repositório referente a um projeto desenvolvido durante a disciplina, Engenhari
 
 # Divisão do projeto
 O projeto foi dividido entre 3 repositórios:
-- "projeto-acolhe-docs": Utilizado para guardar arquivos referentes a documentação do software.
-- "acolhe--back-end": Utilizado para versionar códigos referentes ao backend do software.
-- "acolhe--front-end": Utilizado para versionar códigos referentes ao frontend do software.
+- "projeto-acolhe-docs": Utilizado para guardar arquivos referentes a documentação do software. [Acessar](https://github.com/RafaelGuedes953/projeto-acolhe-docs)
+- "acolhe--back-end": Utilizado para versionar códigos referentes ao backend do software. [Acessar](https://github.com/madsonrl/acolhe--back-end)
+- "acolhe--front-end": Utilizado para versionar códigos referentes ao frontend do software. [Acessar](#)
