@@ -21,8 +21,7 @@ Data: *21/12/2021*
 
 ## Objetivos do documento
 ---
-<p style="text-align: justify;">
-Este documento detalha e formaliza o escopo de um projeto, em todas as suas dimensões. Deverão ser documentadas neste documento as principais entregas e a forma como o trabalho será desenvolvido.
+<p style="text-align: justify;">Este documento detalha e formaliza o escopo de um projeto, em todas as suas dimensões. Deverão ser documentadas neste documento as principais entregas e a forma como o trabalho será desenvolvido.
 
 ## Problemática
 ---
@@ -45,7 +44,7 @@ Além disso, desenvolver a API que vai guardar e disponibilizar os dados das pla
 
 ## Limites do escopo
 ---
-<p style="text-align: justify;">O projeto Acolhe+ não pretende realizar atendimentos ou marcar horários nas plataformas que forem divulgadas pelo software desenvolvido.
+<p style="text-align: justify;">O projeto Acolhe+ não pretende realizar atendimentos ou marcar horários nas plataformas que forem divulgadas pelo software desenvolvido. Este software não fará cadastro ou login de usuários, visto que servirá para redirecionar às plataformas de acolhimento divulgadas.
 
 ## Restrições
 ---
