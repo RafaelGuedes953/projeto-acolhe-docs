@@ -25,7 +25,7 @@ Tomando por base o contexto do sistema, esta seção descreve os requisitos que 
 |:---:|---|---|:---:|
 |RF001|O sistema deve listar plataformas de acolhimento ou grupos de apoio previamente cadastradas.|Essencial||
 |RF002|O sistema deve permitir que o visitante selecione plataformas e grupos.|Importante|RF001|
-|RF003|O sistema deve exibir informações detalhadas da plataforma selecionada. (Como funciona, meios para contato, como utilizar o serviço)|Desejável|RF001, RF002|
+|RF003|O sistema deve exibir informações detalhadas da plataforma selecionada. (Como funciona, meios para contato, como utilizar o serviço)|Importante|RF001, RF002|
 |RF004|O sistema pode aceitar sugestões de novas plataformas. (pré-cadastros que devem passar pela aprovação de um administrador)|Desejável|
 |RF005|O sistema deve permitir que o administrador visualize todas as sugestões de plataformas.|Desejável|RF004|
 |RF006|O sistema deve permitir que o admin cadastre novas instituições na base de dados do sistema.|Importante||
