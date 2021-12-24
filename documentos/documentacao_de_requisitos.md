@@ -35,10 +35,10 @@ Tomando por base o contexto do sistema, esta seção descreve os requisitos que 
 ## Requisitos Não Funcionais
 |ID|Descrição|Categoria|Prioridade|
 |:---:|---|---|:---:|
-|RNF001| O sistema deve utilizar React, React Native e NodeJS.|Requisisto de Implementação|Importante
-|RNF002| Apenas o usuário com privilégio de acesso admin poderá visualizar e excluir sugestões de visitantes.|Requisisto de Segurança|Essencial
+|RNF001| O sistema deve utilizar React, React Native e NodeJS.|Requisito de Implementação|Importante
+|RNF002| Apenas o usuário com privilégio de acesso admin poderá visualizar e excluir sugestões de visitantes.|Requisito de Segurança|Essencial
 |RNF003| O sistema deve se comunicar entre Web, Mobile e API Rest.| Requisito de Interoperabilidade|Essencial
-|RNF004| O login de admin deverá estar oculto no sistema.| Requisisto de Segurança|Importante
+|RNF004| O login de admin deverá estar oculto no sistema.| Requisito de Segurança|Importante
 |RNF005| As telas devem ter um padrão de interface.| Requisito de Usabilidade| Importante
 
 ## Regras de Negócio

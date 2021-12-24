@@ -15,6 +15,7 @@ O projeto foi dividido entre 3 repositórios:
 
 # Documentos específicos do projeto
 O projeto do software Acolhe+ gera diversos artefatos, listados abaixo, seguidos de seus respectivos links de acesso.
-* Declaração do escopo. [Acessar](https://github.com/RafaelGuedes953/projeto-acolhe-docs/blob/main/documentos/declaracao_de_escopo.md)
-* Documento de requisitos. [Acessar](https://github.com/RafaelGuedes953/projeto-acolhe-docs/blob/main/documentos/documentacao_de_requisitos.md)
-* Diagramas. [Acessar](https://github.com/RafaelGuedes953/projeto-acolhe-docs/tree/main/diagramas/imagens)
+
+* Declaração do escopo. [Acessar](/documentos/declaracao_de_escopo.md)
+* Documento de requisitos. [Acessar](/documentos/documentacao_de_requisitos.md)
+* Diagramas. [Acessar](/documentos/documento_de_diagramas.md)
